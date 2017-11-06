@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/volley/begi/com/volleyapplication/ApplicationController.java" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/volley/begi/com/volleyapplication/Constants.java" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/volley/begi/com/volleyapplication/MainActivity.java" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/volley/begi/com/volleyapplication/requests" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_jsonarrayrequest.xml" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_jsonobjectrequest.xml" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_stringrequest.xml" charset="windows-1254" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
